@@ -1,4 +1,5 @@
 ECS apache起動。
 
-apacheが起動するterraform
+apacheが起動するterraform。
+
 
